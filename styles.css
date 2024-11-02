@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     /* min-height: 100vh; */
-    background-color: green;
+    background-color:  rgb(30, 30, 80);
     color: #fff;
     font-family: Arial, sans-serif;
 }
@@ -17,8 +17,8 @@ body {
 .container {
     width: 300px;
     padding: 20px;
-    background-color: green;
-    border: 7px solid #c00;
+    background-color:  rgb(30, 30, 80);
+    border: 7px solid: rgb(120, 190, 39);
     text-align: center;
     color: #f00;
     position: relative;
@@ -31,7 +31,7 @@ body {
 
 .title {
     font-size: 24px;
-    color: #ff4444;
+    color: rgb(34, 172, 119);
     margin-bottom: 20px;
 }
 
@@ -41,7 +41,7 @@ body {
 
 .section h2 {
     font-size: 16px;
-    color: #f00;
+    color:rgb(34, 172, 119);
     margin-bottom: 5px;
 }
 
@@ -52,7 +52,7 @@ body {
 }
 
 .substitutes h2 {
-    color: #ff8800;
+    color:rgb(34, 172, 119);
 }
 
 .kit {
