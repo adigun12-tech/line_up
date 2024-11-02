@@ -17,7 +17,7 @@ body {
 .container {
     width: 300px;
     padding: 20px;
-    background-color: #111;
+    background-color: green;
     border: 7px solid #c00;
     text-align: center;
     color: #f00;
